@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <include
+        domain="database"
+        path="default"
+        requireFlags="deviceToDeviceTransfer" />
+</full-backup-content>
